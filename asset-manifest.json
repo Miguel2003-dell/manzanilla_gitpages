@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manzanilla_gitpages/static/css/main.f855e6bc.css",
+    "main.js": "/manzanilla_gitpages/static/js/main.a885e9c9.js",
+    "static/js/453.f003f9d0.chunk.js": "/manzanilla_gitpages/static/js/453.f003f9d0.chunk.js",
+    "static/media/logo.svg": "/manzanilla_gitpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/manzanilla_gitpages/index.html",
+    "main.f855e6bc.css.map": "/manzanilla_gitpages/static/css/main.f855e6bc.css.map",
+    "main.a885e9c9.js.map": "/manzanilla_gitpages/static/js/main.a885e9c9.js.map",
+    "453.f003f9d0.chunk.js.map": "/manzanilla_gitpages/static/js/453.f003f9d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a885e9c9.js"
+  ]
+}
